@@ -20,6 +20,8 @@ Você pode instalar as dependências usando pip:
 
 pip install pandas numpy matplotlib seaborn scikit-learn
 
+Para o dataset, é possível baixar pelo Kaggle: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 # Estrutura do projeto
 
 Importação de Bibliotecas: Importamos as bibliotecas necessárias para manipulação de dados, visualização e construção do modelo.
